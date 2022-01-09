@@ -1,14 +1,61 @@
-# Love Running
+# Padraic King
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+A comprehensive website for a traditional portrait artist based in Ireland. The website features a promotional video, testimonials, a gallery of the artist's work, an about page, pricing tables, a clear step-by-step guide to ordering and a contact page. The primary goal of the website is to lead potential customers to making first contact with the artist via the contact page.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+An important note on the longer path to buy is that unlike most B2C websites - which are emotion driven to impulse buy and have the fewest number of steps to the point of purchase - ordering a custom portrait is an expensive and significant purchase, and one that comes with the need for more information than the average B2C purchase. This website tries to address the needs of the customer to find all the information that they need to make a decision to contact the artist, while breaking the information up into small easy to understand sections, and making the steps to the point of contact as clear and easy to follow as possible.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+The business goals of this website are:
 
-## Features 
+    Build brand awareness.
+    Provide high quality examples of the artist's drawings and paintings.
+    Drive sales in the form of first contact (via the contact page) that will then lead to a sales call with the artist.
+    Excellent UX to keep potential clients on site long enough to fill out the contact form.
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+The customer goals of this website are:
+
+    Searching for high quality, bespoke artwork for their home or treasured gift.
+    Clear easy to find pricing.
+    Intuitive ordering process.
+
+
+![Responsice Mockup]
+
+## UX
+
+Ideal client
+The ideal client for this business is:
+
+    English speaking.
+    Has disposable income.
+    Can be anywhere in the world.
+
+Visitors to this website are searching for:
+
+    An artist to create a commissioned painting to decorate their home.
+    And/or a bespoke gift.
+
+This project is the best way to help them achieve these things because:
+
+    Most artists' websites have very poor UX.
+    Other artists' websites are over complicated and produce information overload quickly.
+    This website is:
+        Easy to navigate.
+        Steps the client through easy to understand learnable information.
+        Gives the client the information they need without overloading them.
+        Guiding them to the goal of the website - to fill out the contact form.
+
+Client stories
+
+    As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
+    As a new visitor to the website, I want view this artist's gallery, and view their work in detail so I can decide if I want to commission their work.
+    As a new visitor to the website, I want learn more about the artist, so I can feel I connect with him as a person.
+    As a potential client, I want to know what past clients thought of their artwork and the service they received.
+    As a potential client, I want to view expected prices for a portrait, so I can decide if it is within my budget to order.
+    As an interested client, I want to understand the ordering process, so I know what steps to take next.
+    As an interested client, I want an easy to fill in contact form, so I can make contact with the artist and place my order.
+    As an interested observer and/or potential client, I want to follow the artist on social media, so I can keep up with her latest news.
+    As a returning visitor to the website, who has already decided to contact the artist, I want to be able to find the request a quote page easily.
+
 
 ### Existing Features
 
